@@ -1,5 +1,5 @@
 # Buat file dengan nama Input_2611531010.py
-# Nmaa program untuk menghitung luas persegi panjang
+# Nama program untuk menghitung luas persegi panjang
 # Nama variabel ditambah 4 digit nim terakhir contoh: panjang_1010
 # Program ini menggunakan fungsi input() untuk meminta pengguna
 # memasukkan nila panjang dann lebar persegi panjang.
