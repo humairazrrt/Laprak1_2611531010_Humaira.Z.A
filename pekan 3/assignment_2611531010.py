@@ -1,3 +1,4 @@
+
 # Program assignment dalam python
 
 angka1_1010 = int(input("Input angka-1:"))
@@ -52,4 +53,5 @@ else:
 hasil_1010 = angka1_1010
 hasil_1010 **= angka2_1010
 print("\nAssignment Perpangkatan (**=)")
+>>>>>>> 9df9989f32ac97f9d38815d547d5ff501252ee82
 print("Hasil =", hasil_1010)

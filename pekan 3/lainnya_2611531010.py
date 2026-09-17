@@ -17,7 +17,7 @@ hasil_1010 = nilai_dicari in data
 print("\nOperator keanggotaan IN")
 print(nilai_dicari, "in data =", hasil_1010)
 
-#Operator not in
+# Operator not in
 hasil_1010 = nilai_dicari not in data
 print("\nOperator keanggotaan NOT IN")
 print(nilai_dicari, "not in", data, "=", hasil_1010)
